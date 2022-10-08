@@ -1,0 +1,15 @@
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/bin/Debug/net6.0/YoutubeEgitim
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/bin/Debug/net6.0/YoutubeEgitim.deps.json
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/bin/Debug/net6.0/YoutubeEgitim.runtimeconfig.json
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/bin/Debug/net6.0/YoutubeEgitim.dll
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/bin/Debug/net6.0/YoutubeEgitim.pdb
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/obj/Debug/net6.0/YoutubeEgitim.csproj.AssemblyReference.cache
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/obj/Debug/net6.0/YoutubeEgitim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/obj/Debug/net6.0/YoutubeEgitim.AssemblyInfoInputs.cache
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/obj/Debug/net6.0/YoutubeEgitim.AssemblyInfo.cs
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/obj/Debug/net6.0/YoutubeEgitim.csproj.CoreCompileInputs.cache
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/obj/Debug/net6.0/YoutubeEgitim.dll
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/obj/Debug/net6.0/refint/YoutubeEgitim.dll
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/obj/Debug/net6.0/YoutubeEgitim.pdb
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/obj/Debug/net6.0/YoutubeEgitim.genruntimeconfig.cache
+/Users/kutaytuna/Documents/VisualStudio/YoutubeEgitim/YoutubeEgitim/obj/Debug/net6.0/ref/YoutubeEgitim.dll
